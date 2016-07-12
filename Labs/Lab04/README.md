@@ -1,1 +1,3 @@
-# ucb-ios-apps-I-2016
+# lab 04
+https://docs.google.com/document/d/1bIzVACTpNrRrJy4uQ8JuOGK9B4LCUgpujCdk7papL7U/edit#
+
