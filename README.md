@@ -4,7 +4,7 @@
 - Manejo de mapas
 - Persistencia (Realm)
 - Consumo de Rest/APi services
-- 
+
 Respecto a la aplicacion lo dejo a su criterio, otra opcion es continuar ya agrar mas funcionalidad a la aplicacion que hemos estado realizadon en clases (FoodTracking).
 
 ## Fecha de entrega 20 de Agosto
